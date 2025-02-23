@@ -10,3 +10,6 @@ A unique feature that was added is a page called "My Impact" wherein users get n
 Designed wireframes and created prototype for the homepage, renting stations, my profile and an impact page.
 
 Technology used : Figma
+
+Figma link : https://www.figma.com/proto/j1RnQLklK7b1hJCLCW4LY0/BOLT?node-id=868-0&t=vpFrKkBm0GgAlKo1-1
+
